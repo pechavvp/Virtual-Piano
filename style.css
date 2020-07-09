@@ -1,0 +1,67 @@
+body {
+    background-color: #228B22;
+}
+
+.white-keys {
+    width: 364px;
+}
+
+.white-keys kbd {
+    background-color: #fff;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-left: -4px;
+    border: 1px solid gray;
+    text-align: center;
+    padding-top: 100px;
+}
+
+kbd {
+    font-family: 'Coda Caption', sans-serif;
+}
+
+.black-keys {
+    width: 330px;
+}
+
+.black-keys kbd {
+    background-color: #000;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: #fff;
+    padding-top: 55px;
+    position: relative;
+}
+
+.container {
+    width: 364px;
+    margin: 10% auto;
+}
+
+#W {
+    left: 34px;
+    top: -152px;
+}
+
+#E {
+    left: 52px;
+    top: -152px;
+}
+
+#T {
+    left: 122px;
+    top: -152px;
+}
+
+#Y {
+    left: 140px;
+    top: -152px;
+}
+
+#U {
+    left: 158px;
+    top: -152px;
+}
